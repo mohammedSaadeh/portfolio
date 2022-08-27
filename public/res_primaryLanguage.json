@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Mohammad Sa'deh. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Mohammad Sa'deh. I'm working with newest front-end frameworks like React. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -21,16 +21,16 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "Css"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -73,8 +73,8 @@
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
