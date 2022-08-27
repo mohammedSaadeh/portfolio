@@ -1,20 +1,25 @@
 {
     "basic_info": {
       "name": "Mohammad Sa'deh",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mohammedSaadeh",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/muhammad-saadeh-a9474b117/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/muhammad.b.saadeh",
+          "class": "fab fa-facebook"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "173093667_1133182890540591_263504212446158652_n.jpg"
     },
     "skills": {
       "icons": [
